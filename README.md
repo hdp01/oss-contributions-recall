@@ -9,7 +9,7 @@ Private recall for all my open-source PRs. Each PR has a perfect explanation so 
 | # | Repo | PR | Issue | Summary | Date |
 |---|------|----|-------|---------|------|
 | 1 | `usestrix/strix` | [#1195](https://github.com/usestrix/strix/pull/1195) | [#1155](https://github.com/usestrix/strix/issues/1155) | Fail fast on plain-text model refusal instead of retrying 1000x | 2026-08-29 |
-|   | | | | | |
+| 2 | `openchamber/openchamber` | [#3224](https://github.com/openchamber/openchamber/pull/3224) | [#3199](https://github.com/openchamber/openchamber/issues/3199) | Handle XDG_CACHE_HOME for bun remote install (add ~/.cache/.bun) | 2026-08-29 |
 
 ---
 
@@ -17,7 +17,8 @@ Private recall for all my open-source PRs. Each PR has a perfect explanation so 
 
 ```
 prs/
-  strix-pr-1195.md  — Strix #1155 plain-text refusal fix (commits 7d49b48 + 6e21c94)
+  strix-pr-1195.md       — Strix #1155 plain-text refusal fix (commits 7d49b48 + 6e21c94)
+  openchamber-pr-3224.md — OpenChamber #3199 XDG_CACHE_HOME bun path (commit 638b06f)
   <next-repo>-pr-<num>.md
 ```
 

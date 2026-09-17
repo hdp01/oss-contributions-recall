@@ -1,6 +1,6 @@
 # OpenChamber PR #3224 — Small Win #3199
 
-**Repo:** `openchamber/openchamber` | **PR:** https://github.com/openchamber/openchamber/pull/3224 | **Issue:** https://github.com/openchamber/openchamber/issues/3199 | **Branch:** `hdp01/openchamber:fix/3199-xdg-cache-bun-remote-bin` | **Date:** 2026-08-29
+**Repo:** `openchamber/openchamber` | **PR:** https://github.com/openchamber/openchamber/pull/3224 | **Issue:** https://github.com/openchamber/openchamber/issues/3199 | **Branch:** `hdp01/openchamber:fix/3199-xdg-cache-bun-remote-bin` | **Date:** 2026-08-29 | **Status:** ✅ MERGED 2026-09-17 by btriapitsyn (after CI + mattv8 MERGE review)
 
 ## TL;DR
 
@@ -51,3 +51,6 @@ git remote add fork https://github.com/hdp01/openchamber.git
 git fetch fork fix/3199-xdg-cache-bun-remote-bin && git checkout fork/fix/3199-xdg-cache-bun-remote-bin
 ```
 
+
+## Merge
+Merged 2026-09-17 by `btriapitsyn`: "Merged after CI passed, thanks for fixing XDG-aware binary discovery, and thanks @mattv8 for the review!" First merged contribution. 🎉

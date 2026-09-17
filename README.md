@@ -39,3 +39,4 @@ Each file contains: TL;DR, what/why/root cause, logic with examples, step-by-ste
 4. `git add . && git commit -m "docs: add recall for <repo> PR #<num>" && git push`
 
 > Created: 2026-08-29 | Owner: hdp01 | Private: true
+| 6 | `openchamber/openchamber` | [#3640](https://github.com/openchamber/openchamber/pull/3640) | [#3614](https://github.com/openchamber/openchamber/issues/3614) | Ctrl+Enter inserts newline when Send with Enter is active | 2026-09-17 |

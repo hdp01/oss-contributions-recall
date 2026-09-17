@@ -13,6 +13,7 @@ Private recall for all my open-source PRs. Each PR has a perfect explanation so 
 | 3 | `openchamber/openchamber` | [#3226](https://github.com/openchamber/openchamber/pull/3226) | [#3193](https://github.com/openchamber/openchamber/issues/3193) | Prevent New Worktree dialog error clipping (wrap long paths) | 2026-08-29 |
 | 4 | `n8n-io/n8n` | [#37351](https://github.com/n8n-io/n8n/pull/37351) | — (new feature) | Add string isBlank/isNotBlank helpers (trim-aware) | 2026-08-29 |
 | 5 | `floci-io/floci` | [#3769](https://github.com/floci-io/floci/pull/3769) | [#2605](https://github.com/floci-io/floci/issues/2605) | Document ten dispatched-but-undocumented EC2 ops | 2026-09-16 |
+| 6 | `openchamber/openchamber` | [#3640](https://github.com/openchamber/openchamber/pull/3640) | [#3614](https://github.com/openchamber/openchamber/issues/3614) | Ctrl+Enter inserts newline when Send with Enter is active | 2026-09-17 |
 
 ---
 
@@ -39,4 +40,3 @@ Each file contains: TL;DR, what/why/root cause, logic with examples, step-by-ste
 4. `git add . && git commit -m "docs: add recall for <repo> PR #<num>" && git push`
 
 > Created: 2026-08-29 | Owner: hdp01 | Private: true
-| 6 | `openchamber/openchamber` | [#3640](https://github.com/openchamber/openchamber/pull/3640) | [#3614](https://github.com/openchamber/openchamber/issues/3614) | Ctrl+Enter inserts newline when Send with Enter is active | 2026-09-17 |

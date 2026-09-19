@@ -14,6 +14,7 @@ Private recall for all my open-source PRs. Each PR has a perfect explanation so 
 | 4 | `n8n-io/n8n` | [#37351](https://github.com/n8n-io/n8n/pull/37351) | — (new feature) | Add string isBlank/isNotBlank helpers (trim-aware) | 2026-08-29 |
 | 5 | `floci-io/floci` | [#3769](https://github.com/floci-io/floci/pull/3769) | [#2605](https://github.com/floci-io/floci/issues/2605) | Document ten dispatched-but-undocumented EC2 ops | 2026-09-16 |
 | 6 | `openchamber/openchamber` | [#3640](https://github.com/openchamber/openchamber/pull/3640) | [#3614](https://github.com/openchamber/openchamber/issues/3614) | Ctrl+Enter inserts newline when Send with Enter is active | 2026-09-17 |
+| 7 | `openchamber/openchamber` | [#3722](https://github.com/openchamber/openchamber/pull/3722) | [#3666](https://github.com/openchamber/openchamber/issues/3666) | Toolbar button for temporary (/btw) questions | 2026-09-19 |
 
 ---
 
